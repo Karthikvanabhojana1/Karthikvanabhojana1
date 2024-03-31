@@ -12,7 +12,7 @@
 - 👨‍💻 [Portfolio](https://karthikvanabhojana1.github.io/portfolio/)(In contruction)
 
 
-- 💬 Ask me about **Java, Springboot and Express JS**
+- 💬 Ask me about **Java, Springboot, Devops, React, NodeJS and Express JS**
 
 - 📫 How to reach me **vanabhojana.k@northeastern.edu**
 
