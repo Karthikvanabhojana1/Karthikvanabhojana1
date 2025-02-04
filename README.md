@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Karthik Vanabhojana</h1>
 <h3 align="center">A Experienced Backend Developer Transitioning to Cloud and Software Development Engineer Roles</h3>
 
-- 🔭 I’m currently working on [API for hospital management using Graphql](https://github.com/Karthikvanabhojana1/healthcare.git)
-
 - 🌱 I’m currently learning **AWS, GCP and Terraform**
 
 - 👨‍💻 All of my projects are available at [In contruction](In contruction)
 
 - 📝 I regularly write articles on [https://medium.com/@karthikvanabhojana](https://medium.com/@karthikvanabhojana)
 
-- 👨‍💻 [Portfolio](https://portfolio-eoe0dhklf-karthikvanabhojana1s-projects.vercel.app/)(In contruction)
+- 👨‍💻 [Portfolio](https://portfolio-website-99xkp8vby-karthikvanabhojana1s-projects.vercel.app/)(In contruction)
 
 
 - 💬 Ask me about **Java, Springboot, Devops, React, NodeJS and Express JS**
