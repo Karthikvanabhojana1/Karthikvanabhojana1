@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@karthikvanabhojana](https://medium.com/@karthikvanabhojana)
 
-- 👨‍💻 [Portfolio](https://portfolio-website-99xkp8vby-karthikvanabhojana1s-projects.vercel.app/)(In contruction)
+- 👨‍💻 [Portfolio](https://karthikvanabhojana.com/)(In contruction)
 
 
 - 💬 Ask me about **Java, Springboot, Devops, React, NodeJS and Express JS**
